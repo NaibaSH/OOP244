@@ -1,0 +1,22 @@
+/*/////////////////////////////////////////////////////////////////////////
+                        Workshop-2 Part-2
+Full Name  : Naiba Shabanova
+Student ID#: 164598229
+Email      : nshabanova@myseneca.ca
+Section    : ZCC
+Date       : 29/01/2024
+
+Authenticity Declaration:
+I have done all the coding by myself and only copied the code that
+my professor provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+For this workshop majorly I learned the concept of memory allocation and deallocation. Memory allocation and deallocation are important aspects of 
+managing dynamic memory, which is memory that is allocated at runtime rather than being determined at compile-time. This dynamic memory management 
+is typically done using operators 'new' and 'delete' keywords. Additionally, reading from files was another important practice in this workshop.
+Lastly, the concept of function overloading was a major chunk of this workshop - Function overloading is a feature where multiple functions can have 
+the same name but differ in the type or number of their parameters. This allows us to define several functions with the same name that perform similar 
+operations on different types of data or with different parameter combinations.
+
+At a personal level, fixing memory leaks was a major challenge for me in this workshop. As a beginner, learning this new concept and properly adhering 
+to the rules of memory allocation and deallocation to prevent any memory leaks was difficult. I had to go through my code, understand the error message
+, and revise the basics for a lot of time to finally deallocate all the memory that I had allocated earlier.
