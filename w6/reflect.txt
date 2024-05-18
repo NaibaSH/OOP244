@@ -1,0 +1,35 @@
+/*/////////////////////////////////////////////////////////////////////////
+                         Reflect w6
+Full Name  : Naiba Shabanova
+Student ID#: 164598229
+Email      : nshabanova@myseneca.ca
+Section    : ZCC
+Date       : 2024-03-10
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+/////////////////////////////////////////////////////////////////////////*/
+
+                              Part 2: Reflection
+
+Study your final solutions for each deliverable of the workshop and the most recent milestones of the project, reread the related parts of the course notes, and make sure that you have understood the concepts covered by this workshop. This should take no less than 30 minutes of your time and the result is suggested to be at least 150 words in length.
+
+Create a file named reflect.txt that contains your detailed description of the topics that you have learned in completing this workshop and the project milestones and mention any issues that caused you difficulty.
+
+***************************************************************************************************************************************
+/////////////////////////////////////////////////////////MY ANSWER////////////////////////////////////////////////////////////////////
+
+In completing Workshop #6, I delved into the complexities of class design, resource management, and file I/O in C++. This experience was enlightening, as I grappled with the nuances of implementing the Rule of Three, which underscores the importance of defining copy constructors, copy assignment operators, and destructors for classes that manage dynamic resources. I came to appreciate the critical role these components play in preventing resource leaks and ensuring deep copies of objects.
+
+I was particularly challenged by the need to prevent copying and assignment in certain classes, a concept that was initially counterintuitive. However, I realized the significance of this practice in preserving the integrity of classes designed to manage unique resources or maintain singleton patterns. By explicitly deleting these operations, I ensured that objects of these classes could not be copied erroneously, protecting the resource management logic I had carefully implemented.
+
+The workshop also enhanced my understanding of file I/O operations using ifstream and ofstream. I learned how to efficiently read from and write to files, a skill that is indispensable in many real-world applications. Parsing CSV files was a practical exercise that honed my attention to detail, as I navigated through edge cases and ensured my program could handle various file formats robustly.
+
+Throughout this workshop, I faced difficulties, especially in managing dynamic memory and parsing file input correctly. These challenges were valuable learning opportunities, pushing me to develop more efficient and error-resistant code. Overall, this experience significantly contributed to my growth as a programmer, teaching me the importance of rigorous resource management and the intricacies of C++ file handling.
+
+
+
+
+
+

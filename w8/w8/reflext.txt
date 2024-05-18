@@ -1,0 +1,13 @@
+/*/////////////////////////////////////////////////////////////////////////
+						 OOP244 Workshop # 8:
+Full Name  : Naiba Shabanova
+Student ID#: 164598229
+Email      : nshabanova@myseneca.ca
+Section    : ZCC
+Date       : 2024-03-24
+Authenticity Declaration:
+I have done all the coding by myself and only copied the code that my
+professor provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+
+In Workshops 8 and Milestone 3, the focal point of my studies was the virtual function. Defined as a member function within a base class and overridden by a derived class, virtual functions enable the execution of derived class functionalities when an object of the said derived class is accessed via a pointer or reference to the base class. These functions are essential to be declared in the public visibility scope. Within the context of Workshop 8, the iAccount class is designed as an interface, which means it's an abstract base class containing only pure virtual functions. To adhere to this design, I prefix the function declaration with 'virtual' and append '=0' to signify its pure virtual nature. In the Account class, practical implementations for the credit and debit functions are formulated. When tackling Milestone 3, I found both the Streamable Interface module and the Publication class module to be particularly challenging. The function istream& read(istream& istr) in Publication.cpp was notably difficult, demanding a considerable amount of time and effort due to its complexity. This function's implementation was critical in highlighting the importance of mastering abstract classes and virtual functions for effective object-oriented programming, emphasizing their role in enhancing software design flexibility and maintainability.

@@ -1,0 +1,24 @@
+/*/////////////////////////////////////////////////////////////////////////
+                        Workshop-3 Part-2
+Full Name  : Naiba Shabanova
+Student ID#: 164598229
+Email      : nshabanova@myseneca.ca
+Section    : ZCC
+Date       : 06/02/2024
+
+Authenticity Declaration:
+I have done all the coding by myself and only copied the code that
+my professor provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+
+In this workshop, I focused on developing a C++ project that simulated an ice cream shop, requiring me to employ key programming concepts such as class design, dynamic memory management, input validation, and namespace organization.
+
+I found designing the Vendor, Icecream, and Utils classes particularly enlightening. Determining the appropriate member variables and methods for each class allowed me to better understand encapsulation and the principles of object-oriented programming. For example, in the Vendor class, I had to carefully consider how to manage an array of Icecream objects dynamically, which was challenging but improved my grasp of memory management in C++.
+
+Dynamic memory allocation, using new[] and delete[], was another critical aspect of my project. Managing memory efficiently and safely was a challenge, especially ensuring that memory leaks were prevented and resources were correctly released. This aspect of the project significantly enhanced my understanding of resource management in C++.
+
+Implementing robust input validation in the Utils class was crucial for the usability of my application. Developing functions like getInt(), getCstr(), and yes() to handle various input scenarios taught me the importance of anticipating and managing user input errors.
+
+Using a namespace, seneca, helped me organize my code effectively, enhancing its readability and maintainability. This practice gave me insights into how large-scale projects can be structured to improve code clarity.
+
+Throughout this workshop, I faced challenges like understanding complex concepts such as memory management and input validation. However, overcoming these challenges was rewarding and contributed significantly to my growth as a programmer. This project has not only bolstered my technical skills but also provided practical insights into real-world applications of these programming concepts

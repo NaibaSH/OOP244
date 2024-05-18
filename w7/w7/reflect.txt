@@ -1,0 +1,21 @@
+/*/////////////////////////////////////////////////////////////////////////
+						 OOP244 Workshop # 7:
+Full Name  : Naiba Shabanova
+Student ID#: 164598229
+Email      : nshabanova@myseneca.ca
+Section    : ZCC
+Date       : 2024-03-16
+Authenticity Declaration:
+I have done all the coding by myself and only copied the code that my
+professor provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+*****************************************************************************************************************************
+Part 2: Reflection
+*****************************************************************************************************************************
+Participating in the workshop on Derived Classes and Custom I/O Operators was an enlightening journey into the intricacies of C++ inheritance and class design. Initially, I found the concept of shadowing member functions in derived classes to be a complex challenge. It demanded a nuanced understanding of how these classes extend or override functionality from base classes. This process was crucial for creating a robust and flexible class hierarchy that accurately represented the relationship between bank accounts and savings accounts in our project.
+
+Moreover, mastering custom input/output operators significantly enhanced my skills in stream manipulation. This aspect of the workshop emphasized the importance of seamlessly integrating custom classes with C++'s standard I/O mechanisms, a critical skill for developing user-friendly and efficient applications. The challenge of correctly implementing these operators underscored the necessity of operator overloading, which ensures that objects of custom classes behave intuitively when subjected to standard I/O operations.
+
+Another hurdle was managing access to protected members when working within a derived class. This issue brought to light the delicate balance between maintaining encapsulation and providing access to necessary class members for subclasses. It was a practical lesson in the principles of object-oriented programming, particularly in terms of encapsulation and the use of access specifiers to safeguard class internals while still allowing for necessary interactions between class hierarchies.
+
+Through overcoming these challenges, I gained not only a deeper theoretical understanding of C++ and object-oriented programming principles but also valuable hands-on experience in applying these concepts to real-world programming tasks. This workshop was instrumental in advancing my programming skills, teaching me to approach complex problems with a strategic mindset and an eye for detail. The knowledge and techniques I acquired are assets that will undoubtedly enhance my future projects and contributions as a programmer.

@@ -1,0 +1,30 @@
+/*/////////////////////////////////////////////////////////////////////////
+						 OOP244 Workshop5 # p2:
+Full Name  : Naiba Shabanova
+Student ID#: 164598229
+Email      : nshabanova@myseneca.ca
+Section    : ZCC
+Date       : 2024-02-20
+Authenticity Declaration:
+I have done all the coding by myself and only copied the code that my
+professor provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+
+******************************************************************************************************************************************
+Reflection
+Study your final solutions for each deliverable of the workshop, reread the related parts of the course notes, and make sure that you have understood the concepts covered by this workshop. This should take no less than 30 minutes of your time and the result is suggested to be at least 150 words in length.
+
+Create a file named reflect.txt that contains your detailed description of the topics that you have learned in completing this workshop and mention any issues that caused you difficulty.
+
+You may be asked to talk about your reflection (as a presentation) in class.
+***********************************************************************************************************************************
+
+**************************************MY ANSWER**************************************
+
+In this workshop, I deeply explored the concepts of operator overloading and class design in C++. I learned how to implement type conversion operators, unary and binary member operators, and global helper functions. This workshop pushed me to think about how operators can be used to make classes more intuitive and user-friendly.
+
+One challenge I faced was correctly implementing the operator overloads, particularly the binary operators for the bankAccount class. Understanding how these operators interact with class members, especially when dealing with dynamic memory, was complex but rewarding. The process of creating and managing the Hero class, with its dynamic array of Powers, also provided valuable lessons in memory management and class design.
+
+Additionally, I gained practical experience in generating formatted output using cout, which is essential for providing clear and understandable feedback to users. This skill is not only crucial for debugging but also for creating user-friendly applications.
+
+Overall, this workshop has significantly improved my understanding of advanced features in C++, and I am now more comfortable with concepts like operator overloading and dynamic memory management. The hands-on experience was challenging but has undoubtedly contributed to my growth as a programmer.

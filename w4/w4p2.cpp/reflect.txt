@@ -1,0 +1,23 @@
+/*/////////////////////////////////////////////////////////////////////////
+                          Workshop - #4 (P2)
+Full Name  : Naiba Shabanova
+Student ID#: 164598229
+Email      : nshabanova@myseneca.ca
+Section    : ZCC
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+/////////////////////////////////////////////////////////////////////////*/
+
+
+
+
+This workshop,  I focused on Object-Oriented Programming (OOP) in C++, provided a deep dive into class design, dynamic memory management, and the practical application of these concepts. Working on the Guitar and GuitarStr classes, I learned the importance of structuring classes to encapsulate data effectively, a fundamental aspect of OOP. Defining private attributes in the GuitarStr class, for example, ensured that the string properties could only be manipulated through designated public methods, reinforcing data integrity.
+
+The implementation of dynamic memory in the Guitar class was a challenging yet insightful part of the workshop. Managing an array of GuitarStr objects required careful allocation and deallocation of resources, particularly in constructors and the destructor. This exercise highlighted the necessity of handling memory responsibly in C++ to avoid leaks and ensure efficient resource usage.
+
+The main.cpp file served as a practical testbed for these classes. Creating, modifying, and interacting with Guitar objects in various ways demonstrated the real-world utility of OOP concepts. For instance, functions like changeString and matchGauge not only tested the functionality of individual methods but also emphasized the importance of designing flexible and user-friendly interfaces.
+
+Throughout this workshop, I encountered challenges, particularly in managing pointers and ensuring proper memory deallocation. These difficulties underscored the importance of attention to detail in C++ and the value of rigorous testing. Overall, this experience solidified my understanding of OOP principles and their critical role in developing robust, reusable, and maintainable code.
